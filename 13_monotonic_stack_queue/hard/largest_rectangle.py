@@ -1,0 +1,1 @@
+# Monotonic Stack: Histogram\nprint('Largest rectangle')

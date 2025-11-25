@@ -1,0 +1,1 @@
+# KMP: Pattern Search\nprint('Linear time matching')

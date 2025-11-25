@@ -1,0 +1,1 @@
+# Hashing: Two Sum\nprint('Hash map for O(1) lookup')

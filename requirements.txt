@@ -1,0 +1,18 @@
+# Python 3.13 Requirements for Competitive Programming Patterns
+
+# No external dependencies required for core algorithms
+# All implementations use Python standard library only
+
+# Optional: For enhanced visualization and analysis
+# numpy>=1.26.0
+# matplotlib>=3.8.0
+
+# Optional: For testing
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+
+# Optional: For performance profiling
+# memory-profiler>=0.61.0
+
+# Python version requirement
+# python>=3.13

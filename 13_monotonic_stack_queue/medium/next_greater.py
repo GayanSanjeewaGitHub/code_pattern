@@ -1,0 +1,1 @@
+# Monotonic Stack: Next Greater\nprint('Stack pattern')

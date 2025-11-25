@@ -1,0 +1,1 @@
+# Divide & Conquer: Merge Sort\nprint('Sorting algorithm')

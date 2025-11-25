@@ -1,0 +1,1 @@
+# Segment Tree: Lazy Propagation\nprint('Efficient updates')

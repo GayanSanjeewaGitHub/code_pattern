@@ -1,0 +1,1 @@
+# Prefix Sum: Sales Analysis\nprint('Range queries')

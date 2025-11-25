@@ -1,0 +1,1 @@
+# Segment Tree: Range Query\nprint('Range min/max')

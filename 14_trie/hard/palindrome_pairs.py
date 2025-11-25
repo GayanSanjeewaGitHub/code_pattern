@@ -1,0 +1,1 @@
+# Trie: Palindrome Pairs\nprint('Find palindromes')

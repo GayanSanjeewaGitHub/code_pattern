@@ -1,0 +1,1 @@
+# Aho-Corasick: Multiple Patterns\nprint('Dictionary matching')

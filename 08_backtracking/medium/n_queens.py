@@ -1,0 +1,1 @@
+# Backtracking: N-Queens Problem\nprint('Place N queens')
