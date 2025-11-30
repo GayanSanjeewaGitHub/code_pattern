@@ -1,0 +1,16 @@
+{
+  "extraction_timestamp": "2025-11-30T20:05:58.600626",
+  "patient": {
+    "name": "MUELLER, ADOLPH",
+    "address": null,
+    "date_of_birth": null,
+    "prescriptions": null
+  },
+  "prescriptions": [
+    {
+      "product": "product: JOPLIN, OSs bon 1656 Last Dispeneed:09/09/¢c20",
+      "quantity": "25 ML",
+      "directions": "TAKE 0.25ML-°0.5ML BY MOUTH EVERY 2 HOUAS AS KEESEO FOR PAIN/ SHORTNESS OF BREATH rr"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "extraction_timestamp": "2025-11-30T20:04:53.211831",
+  "patient": {
+    "name": null,
+    "address": null,
+    "date_of_birth": null,
+    "prescriptions": null
+  },
+  "prescriptions": [
+    {
+      "product": null,
+      "quantity": null,
+      "directions": null
+    }
+  ]
+}
